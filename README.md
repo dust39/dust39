@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**dust39/dust39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
@@ -11,4 +10,4 @@
 - 🤔 I’m looking for help with using coding to maximize my time and efficiency. I am currently a cost analyst and I am looking to learn coding to help maximize my time and make analysis more efficient. 
 - 📫 How to reach me: Via littrell.dustin@gmail.com; or on the web at DustinLittrell.com
 - ⚡ Fun fact: I worked at a Pawn Shop for 15 years. I am a coin nerd.
--->
+--
